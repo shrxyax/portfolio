@@ -14,7 +14,7 @@ const Home = () => {
         </p>
         <div className="home-buttons">
            <a
-  href="/Shreya_Chakraborty_Resume.pdf"
+  href="/Shreya_Resume_main.pdf"
   className="btn yellow"
   download
 >
